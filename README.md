@@ -67,10 +67,10 @@ Utilizamos o python para realizar a análise estatístca dos dados, aplicando em
 ## 📅 Sprint
 Abaixo está o cronograma das entregas das Sprint
 
-#### 1. [03/04/2023] [sprint1]
-#### 2. [24/04/2023] [sprint2]
-#### 3. [15/05/2023] [sprint3]
-#### 4. [05/06/2023] [sprint4]
+#### 1. [03/04/2023][sprint1]
+#### 2. [24/04/2023][sprint2]
+#### 3. [15/05/2023][sprint3]
+#### 4. [05/06/2023][sprint4]
 
 [sprint1]: https://github.com/APIEQUIPEAUTOMOTIVO/API2---FATEC/tree/main/1%C2%AA%20Sprint
 [sprint2]: https://github.com/APIEQUIPEAUTOMOTIVO/API2---FATEC/tree/main/2%C2%AA%20Sprint
