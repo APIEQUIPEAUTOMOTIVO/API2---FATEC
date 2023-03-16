@@ -35,7 +35,7 @@ Os métodos para a produção do API 2 são baseados no modelo Scrum, caracteriz
 O Scrum é visto como um método que oferece espaço para incertezas e criatividade, assim favorecendo o aprendizado da equipe.
 
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 #### [1. Power BI][pbi]
 Utilizaremos o Power BI com o objetivo de realizar a modelagem dos dados e aplicar visualmente para apresentar a análise para o cliente.
