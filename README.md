@@ -2,7 +2,9 @@
 
 Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API 2, que visa apresentar um estudo do uso do transporte ferroviário para distribuição de cargas.
 
-  
+## Empresa
+
+  <img style="border-radius: 50%;" src="https://i.imgur.com/TuP6Q9f.png" width="1000px;" alt=""/>
 
 ## 📌 Integrantes da Equipe:
 
