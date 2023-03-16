@@ -1,0 +1,627 @@
+Mes_Ano;Ferrovia;Mercadoria_ANTT;Estacao_Origem;UF_Origem;Estacao_Destino;UF_Destino;TU;TKU
+01/2023;EFC;Cobre;Paraupebas;PA;Ponta da Madeira Cobre;MA;36.530;31.854.160
+01/2023;EFC;Ferro Gusa;Açailândia;MA;Ponta da Madeira Pêra do Píer;MA;55.521;29.187.389
+01/2023;EFC;Ferro Gusa;Marabá;PA;Ponta da Madeira Pêra do Píer;MA;11.071;8.310.998
+01/2023;EFC;Gasolina;Itaqui Base Combustível;MA;Açailândia;MA;7.544;3.945.512
+01/2023;EFC;Gasolina;Itaqui Base Combustível;MA;Marabá;PA;9.466;7.080.568
+01/2023;EFC;Manganês;Marabá;PA;Ponta da Madeira Pêra do Píer;MA;27.748;20.830.423
+01/2023;EFC;Minério de Ferro;Açailândia;MA;Ponta da Madeira;MA;66.623;34.177.599
+01/2023;EFC;Minério de Ferro;Carajás;PA;Açailândia;MA;169.733;64.159.074
+01/2023;EFC;Minério de Ferro;Carajás;PA;Marabá;PA;9.654;1.477.062
+01/2023;EFC;Minério de Ferro;Carajás;PA;Ponta da Madeira;MA;6.856.727;6.109.343.757
+01/2023;EFC;Minério de Ferro;Marabá;PA;Ponta da Madeira;MA;46.320;34.184.160
+01/2023;EFC;Minério de Ferro;Serra Leste;PA;Ponta da Madeira;MA;337.139;280.277.809
+01/2023;EFC;Minério de Ferro;Serra Sul;PA;Ponta da Madeira;MA;4.779.082;4.522.856.296
+01/2023;EFC;Óleo Diesel;Itaqui Base Combustível;MA;Açailândia;MA;21.664;11.330.272
+01/2023;EFC;Óleo Diesel;Itaqui Base Combustível;MA;Marabá;PA;34.047;25.467.156
+01/2023;EFPO;Cimento acondicionado;Agrária;PR;Cascavel;PR;4.360;1.049.007
+01/2023;EFPO;Soja;Cascavel;PR;Agrária;PR;2.109;507.419
+01/2023;EFVM;Carvão Mineral;Tubarão;ES;Bela Vista de Minas;MG;5.185;2.716.390
+01/2023;EFVM;Carvão Mineral;Tubarão;ES;Ouro Branco;MG;108.416;72.733.692
+01/2023;EFVM;Celulose;Aracruz;ES;Frederico Selow;MG;120;44.468
+01/2023;EFVM;Celulose;Frederico Selow;MG;Aracruz;ES;97.944;36.295.401
+01/2023;EFVM;Cloreto de Potássio;Tubarão;ES;Brejo Alegre;MG;14.552;20.458.786
+01/2023;EFVM;Cloreto de Potássio;Tubarão;ES;Eng. Adelmar;MG;4.474;4.323.652
+01/2023;EFVM;Contêiner Cheio de 20 Pés;Tubarão;ES;Nova Granja;MG;4.832;3.290.408
+01/2023;EFVM;Coque;Tubarão;ES;Prudente de Morais;MG;35.919;25.880.429
+01/2023;EFVM;Coque Metalúrgico;Tubarão;ES;Bela Vista de Minas;MG;20.034;10.495.691
+01/2023;EFVM;Coque Metalúrgico;Tubarão;ES;Intendente Câmara;MG;108.508;46.996.006
+01/2023;EFVM;Coque Metalúrgico;Tubarão;ES;Ouro Branco;MG;9.880;6.628.254
+01/2023;EFVM;Ferro Gusa;Aroaba;ES;Pedro Nolasco;ES;9.980;240.247
+01/2023;EFVM;Ferro Gusa;Funil;MG;Pedro Nolasco;ES;19.508;12.505.054
+01/2023;EFVM;Ferro Gusa;Funil;MG;Tubarão;ES;5.127;3.274.249
+01/2023;EFVM;Fosfato;Tubarão;ES;Brejo Alegre;MG;28.064;39.455.399
+01/2023;EFVM;Minério de Ferro;Brucutu;MG;Tubarão;ES;1.644.105;960.178.692
+01/2023;EFVM;Minério de Ferro;Capitão Eduardo;MG;Intendente Câmara;MG;76.218;16.531.530
+01/2023;EFVM;Minério de Ferro;Capitão Eduardo;MG;Mário Carvalho;MG;14.329;2.909.847
+01/2023;EFVM;Minério de Ferro;Conceição;MG;Tubarão;ES;1.386.912;753.804.694
+01/2023;EFVM;Minério de Ferro;Fazendão;MG;Tubarão;ES;903.271;536.983.769
+01/2023;EFVM;Minério de Ferro;João Paulo;MG;Tubarão;ES;803.055;435.316.836
+01/2023;EFVM;Minério de Ferro;Mário Carvalho;MG;Intendente Câmara;MG;19.984;276.258
+01/2023;EFVM;Minério de Ferro;Mário Carvalho;MG;Tubarão;ES;104.299;46.614.873
+01/2023;EFVM;Minério de Ferro;Ouro Branco;MG;Tubarão;ES;234.220;157.132.575
+01/2023;EFVM;Minério de Ferro;Pátio 206;MG;Tubarão;ES;17.677;10.553.698
+01/2023;EFVM;Minério de Ferro;Pedro Nolasco;ES;Intendente Câmara;MG;2.520;1.097.470
+01/2023;EFVM;Minério de Ferro;Piraqueaçu;ES;Tubarão;ES;14.500;1.053.193
+01/2023;EFVM;Minério de Ferro;Timbopeba;MG;Piraqueaçu;ES;25.648;13.806.497
+01/2023;EFVM;Minério de Ferro;Timbopeba;MG;Tubarão;ES;481.067;293.903.549
+01/2023;EFVM;Minério de Ferro;Tubarão;ES;Intendente Câmara;MG;53.211;23.046.269
+01/2023;EFVM;Minério de Ferro;Tubarão;ES;Pedro Nolasco;ES;5.643;153.573
+01/2023;EFVM;Minério de Ferro;Tubarão;ES;Piraqueaçu;ES;8.549;620.948
+01/2023;EFVM;Outros - adubos e Fertilizantes;Tubarão;ES;Brejo Alegre;MG;2.229;3.133.767
+01/2023;EFVM;Outros - adubos e Fertilizantes;Tubarão;ES;Eng. Adelmar;MG;2.819;2.724.267
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Intendente Câmara;MG;Capitão Eduardo;MG;19.636;4.259.006
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Intendente Câmara;MG;Carreira Comprida;MG;10.330;2.308.031
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Intendente Câmara;MG;Embiruçu;MG;33.898;8.452.972
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Intendente Câmara;MG;Lafaiete Bandeira;MG;25.953;5.781.415
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Intendente Câmara;MG;Tubarão;ES;10.309;4.464.941
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Mário Carvalho;MG;Capitão Eduardo;MG;2.329;472.959
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Tubarão;ES;Intendente Câmara;MG;514;222.619
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Tubarão;ES;Lafaiete Bandeira;MG;17.506;11.481.763
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Tubarão;ES;Nova Granja;MG;3.139;2.137.539
+01/2023;EFVM;Prd. Siderúrgicos - Bobina - BF;Tubarão;ES;Parque Industrial;MG;7.003;4.705.875
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Aracruz;ES;3.947;1.977.525
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Capitão Eduardo;MG;6.585;812.290
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Eldorado;MG;8.391;1.211.029
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Governador Valadares;MG;6.383;1.303.025
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Parque Industrial;MG;567;82.398
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Pedro Nolasco;ES;2.359;1.248.021
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;João Monlevade;MG;Prudente de Morais;MG;4.821;934.636
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;Ouro Branco;MG;Tubarão;ES;587;393.804
+01/2023;EFVM;Prd. Siderúrgicos - Fio Máquina;Pedro Nolasco;ES;João Monlevade;MG;43;22.749
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Capitão Eduardo;MG;Tubarão;ES;4.014;2.609.136
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Intendente Câmara;MG;Capitão Eduardo;MG;11.323;2.455.935
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Intendente Câmara;MG;Carreira Comprida;MG;70;15.640
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Intendente Câmara;MG;Lafaiete Bandeira;MG;28.279;6.299.568
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Intendente Câmara;MG;Tubarão;ES;7.481;3.240.103
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Mário Carvalho;MG;Capitão Eduardo;MG;120;24.367
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Tubarão;ES;5.872;3.939.381
+01/2023;EFVM;Prd. Siderúrgicos - Outros;Pedro Nolasco;ES;Pedreira Rio das Velhas;MG;1.025;662.016
+01/2023;EFVM;Prd. Siderúrgicos - Placa;Intendente Câmara;MG;Lafaiete Bandeira;MG;2.333;519.710
+01/2023;EFVM;Prd. Siderúrgicos - Placa;Intendente Câmara;MG;Parque Industrial;MG;692;165.297
+01/2023;EFVM;Prd. Siderúrgicos - Placa;Lafaiete Bandeira;MG;Intendente Câmara;MG;16.294;3.629.731
+01/2023;EFVM;Prd. Siderúrgicos - Placa;Tubarão;ES;Divinopolis;MG;1.538;1.251.350
+01/2023;EFVM;Prd. Siderúrgicos - Placa;Tubarão;ES;Governador Valadares;MG;1.202;387.661
+01/2023;EFVM;Prd. Siderúrgicos - Placa;Tubarão;ES;Intendente Câmara;MG;26.543;11.496.064
+01/2023;EFVM;Prd. Siderúrgicos - Tarugo;João Monlevade;MG;Parque Industrial;MG;651;94.607
+01/2023;EFVM;Prd. Siderúrgicos - Tarugo;Ouro Branco;MG;Tubarão;ES;36.541;24.514.479
+01/2023;EFVM;Toras de Madeira;Desembargador Drumond;MG;Frederico Selow;MG;21.450;2.330.199
+01/2023;EFVM;Toras de Madeira;Eng. Costa Lacerda;MG;Frederico Selow;MG;28.852;4.927.056
+01/2023;EFVM;Ureia;Tubarão;ES;Brejo Alegre;MG;9.131;12.837.353
+01/2023;FCA;Açúcar;Guará;SP;Estação TUF;SP;138.160;87.784.423
+01/2023;FCA;Açúcar;Mato Seco;SP;Estação TUF;SP;6.102;2.197.476
+01/2023;FCA;Açúcar;Ribeirão Preto;SP;Santos;SP;68.469;184.797.546
+01/2023;FCA;Açúcar;Terminal Integrador Uberaba;MG;Estação TUF;SP;17.780;13.979.628
+01/2023;FCA;Areia;Roncador Novo;GO;Brasília;DF;5.901;1.443.189
+01/2023;FCA;Bauxita;Bauxita;MG;Alumínio;SP;26.543;7.426.598
+01/2023;FCA;Bauxita;Brasília;DF;Alumínio;SP;67.543;77.964.141
+01/2023;FCA;Cal;Nova Granja;MG;Porto de Aratu;BA;5.981;9.361.046
+01/2023;FCA;Calcário Siderúrgico;Arcos;MG;Barra Mansa;RJ;53.119;24.780.437
+01/2023;FCA;Calcário Siderúrgico;Matozinhos;MG;Intendente Câmara;MG;28.101;7.696.048
+01/2023;FCA;Calcário Siderúrgico;Nova Granja;MG;Tubarão;ES;22.101;15.049.941
+01/2023;FCA;Celulose;LD Celulose;MG;Aracruz;ES;25.100;33.812.862
+01/2023;FCA;Clínquer;Arcos;MG;Barra Mansa;RJ;30.101;14.042.357
+01/2023;FCA;Cloreto de Potássio;Fosfago;GO;Final Ramal das Fábricas;SP;29.234;29.366.045
+01/2023;FCA;Contêiner Cheio de 20 Pés;Batista Almeida;MG;Calcario;RJ;3.453;1.648.142
+01/2023;FCA;Contêiner Cheio de 20 Pés;Batista Almeida;MG;Tubarão;ES;3.831;3.741.124
+01/2023;FCA;Contêiner Cheio de 20 Pés;Nova Granja;MG;Tubarão;ES;119;81.034
+01/2023;FCA;Contêiner Cheio de 40 Pés;Replan;SP;General Curado;GO;2.094;2.037.791
+01/2023;FCA;Cromita;Campo Formoso;BA;Irapui;BA;4.189;1.614.390
+01/2023;FCA;Cromita;Itiuba;BA;Irapui;BA;21.876;6.606.092
+01/2023;FCA;Demais Produtos;Replan;SP;Estação Pool;GO;1.788;1.827.661
+01/2023;FCA;Dolomita;Arcos;MG;Barra Mansa;RJ;24.486;11.422.914
+01/2023;FCA;Enxofre;Conceiçãozinha;SP;Fosfago;GO;2.513;2.573.324
+01/2023;FCA;Enxofre;Estação TUF;SP;Valefertil;MG;63.372;44.040.495
+01/2023;FCA;Farelo de Soja;Brejo Alegre;MG;Estação TUF;SP;24.000;22.773.719
+01/2023;FCA;Farelo de Soja;Ipameri;GO;Santos;SP;10.102;10.442.053
+01/2023;FCA;Ferro Gusa;Paulo Menicucci;MG;Tubarão;ES;10.870;8.965.564
+01/2023;FCA;Ferro Gusa;Prudente de Morais;MG;Pedro Nolasco;ES;28.045;20.274.148
+01/2023;FCA;Ferro Gusa;Prudente de Morais;MG;Tubarão;ES;33.861;24.324.096
+01/2023;FCA;Fosfato;Catalão;GO;Valefertil;MG;47.201;14.303.932
+01/2023;FCA;Gasolina;Candeias;BA;Montes Claros;MG;1.748;1.871.398
+01/2023;FCA;Gasolina;Embiruçu;MG;Governador Valadares;MG;3.553;1.439.487
+01/2023;FCA;Gasolina;Replan;SP;Brasília;DF;3.234;3.403.350
+01/2023;FCA;Gasolina;Replan;SP;Estação Pool;GO;1.742;1.780.640
+01/2023;FCA;Grãos - Milho;Terminal Integrador Uberaba;MG;Conceiçãozinha;SP;29.607;25.225.681
+01/2023;FCA;Grãos - Milho;Terminal Integrador Uberaba;MG;Estação TUF;SP;102.185;83.339.480
+01/2023;FCA;Grãos - Milho;Terminal Integrador Uberaba;MG;Santos;SP;16.941;14.326.166
+01/2023;FCA;LAB - Sulfonato de alquilbenzeno linear;Copec;BA;Vespasiano;MG;876;1.412.644
+01/2023;FCA;Magnesita;Catiboaba;BA;Parque Industrial;MG;11.256;11.536.015
+01/2023;FCA;Magnesita;Catiboaba;BA;Porto de Aratu;BA;4.987;2.578.953
+01/2023;FCA;Minério de Ferro;Silva Oliveira;MG;Intendente Câmara;MG;182.233;56.099.174
+01/2023;FCA;Minério de Ferro;Terminal de Patrocínio;MG;Terminal de Fosfatados;MG;230.101;44.559.288
+01/2023;FCA;Óleo Diesel;Candeias;BA;Montes Claros;MG;6.963;7.454.551
+01/2023;FCA;Óleo Diesel;Embiruçu;MG;Desembargador Drumond;MG;1.764;313.348
+01/2023;FCA;Óleo Diesel;Embiruçu;MG;Governador Valadares;MG;1.812;652.249
+01/2023;FCA;Óleo Diesel;Replan;SP;Brasília;DF;6.987;7.352.878
+01/2023;FCA;Óleo Diesel;Replan;SP;Estação Pool;GO;3.712;3.794.337
+01/2023;FCA;Prd. Siderúrgicos - Fio Máquina;Eldorado;MG;João Monlevade;MG;412;59.462
+01/2023;FCA;Prd. Siderúrgicos - Placa;Eldorado;MG;Intendente Câmara;MG;15.839;3.551.858
+01/2023;FCA;Prd. Siderúrgicos - Tarugo;Divinopolis;MG;Tubarão;ES;10.565;8.595.916
+01/2023;FCA;Soja;Brejo Alegre;MG;Tubarão;ES;19.326;26.976.541
+01/2023;FCA;Soja;Terminal Integrador Uberaba;MG;Conceiçãozinha;SP;15.813;12.969.361
+01/2023;FCA;Soja;Terminal Integrador Uberaba;MG;Estação TUF;SP;42.850;35.162.825
+01/2023;FCA;Soja;Terminal Integrador Uberaba;MG;Santos;SP;84.619;70.084.883
+01/2023;FCA;Toras de Madeira;Prudente de Morais;MG;Aracruz;ES;75.101;52.186.783
+01/2023;FCA;Ureia;Estação TUF;SP;Valefertil;MG;10.904;7.578.267
+01/2023;FNSTN;Adubo Fert em Geral a Granel  - Perigoso;Ponta da Madeira;MA;Palmeirante;TO;33.759;32.725.027
+01/2023;FNSTN;Álcool;Porto Nacional;TO;Itaqui Base Combustível;MA;2.840;3.537.220
+01/2023;FNSTN;Celulose;Suzano;MA;Pátio Esso;MA;150.352;92.552.782
+01/2023;FNSTN;Cloreto de Potássio;Ponta da Madeira;MA;Palmeirante;TO;7.890;7.648.345
+01/2023;FNSTN;Gasolina;Itaqui Base Combustível;MA;Porto Nacional;TO;9.450;11.770.414
+01/2023;FNSTN;Grãos - Milho;Porto Franco;MA;Ponta da Madeira Pêra do Píer;MA;76.368;55.830.500
+01/2023;FNSTN;Grãos - Milho;Porto Nacional;TO;Ponta da Madeira Pêra do Píer;MA;77.398;97.014.552
+01/2023;FNSTN;Óleo Diesel;Itaqui Base Combustível;MA;Porto Nacional;TO;38.839;48.373.971
+01/2023;FNSTN;Outros - Comb e derivado -  Perigoso;Porto Nacional;TO;Itaqui Base Combustível;MA;1.107;1.378.768
+01/2023;FNSTN;Soja;Palmeirante;TO;Ponta da Madeira Pêra do Píer;MA;73.397;71.688.894
+01/2023;FTC;Carvão Mineral;Mina Novo Horizonte;SC;Capivari;SC;27.668;1.528.961
+01/2023;FTC;Carvão Mineral;Rio Fiorita;SC;Capivari;SC;113.607;8.944.351
+01/2023;FTC;Carvão Mineral;Sangão;SC;Capivari;SC;3.167;216.081
+01/2023;FTC;Carvão Mineral;Urussanga;SC;Capivari;SC;43.092;2.781.847
+01/2023;FTC;Contêiner Cheio de 20 Pés;Eng. Paz Ferreira;SC;Imbituba;SC;29.284;3.121.732
+01/2023;FTC;Contêiner Cheio de 40 Pés;Eng. Paz Ferreira;SC;Imbituba;SC;10.405;1.109.193
+01/2023;FTC;Contêiner Vazio de 20 Pés;Imbituba;SC;Eng. Paz Ferreira;SC;2.716;289.531
+01/2023;FTC;Contêiner Vazio de 40 Pés;Imbituba;SC;Eng. Paz Ferreira;SC;411;43.813
+01/2023;FTL;Álcool;Itaqui;MA;Teresina;PI;66;30.369
+01/2023;FTL;Areia;Aracapé;CE;Coroatá;MA;40;37.992
+01/2023;FTL;Areia;Aracapé;CE;Crateus;CE;26;11.392
+01/2023;FTL;Areia;Aracapé;CE;Oficina Demostenes Rockert;CE;10;195
+01/2023;FTL;Areia;Aracapé;CE;São Luis - Tirirical;MA;51;60.365
+01/2023;FTL;Areia;Aracapé;CE;Sobral;CE;80;18.447
+01/2023;FTL;Areia;Aracapé;CE;Teresina;PI;80;58.440
+01/2023;FTL;Areia;Oficina Demostenes Rockert;CE;Teresina;PI;1;731
+01/2023;FTL;Celulose;Pátio Esso;MA;Itaqui;MA;143.040;286.080
+01/2023;FTL;Cimento acondicionado;Fábrica Votorantim Pecém;CE;Mucuripe;CE;6.560;449.576
+01/2023;FTL;Cimento acondicionado;Pecem;CE;São Luis - Tirirical;MA;2.707;3.153.338
+01/2023;FTL;Cimento acondicionado;Pecem;CE;Teresina;PI;1.031;730.858
+01/2023;FTL;Cimento acondicionado;Poty;CE;Mucuripe;CE;1.508;383.617
+01/2023;FTL;Cimento acondicionado;Poty;CE;Teresina;PI;12.000;6.024.048
+01/2023;FTL;Clínquer;Poty;CE;Fábrica Votorantim Pecém;CE;6.563;1.314.588
+01/2023;FTL;Clínquer;Poty;CE;Pátio ABL;MA;8.579;8.217.429
+01/2023;FTL;Contêiner Cheio de 20 Pés;Pecem;CE;Aracapé;CE;178;10.256
+01/2023;FTL;Coque;Mucuripe;CE;Poty;CE;1.779;452.556
+01/2023;FTL;Demais Produtos;Aracapé;CE;Água Branca;PI;86;45.860
+01/2023;FTL;Demais Produtos;Aracapé;CE;Itapipoca Novo;CE;20;2.759
+01/2023;FTL;Demais Produtos;Babaçu;MA;Crateus;CE;12;5.020
+01/2023;FTL;Demais Produtos;Babaçu;MA;Oiticica;CE;7;2.522
+01/2023;FTL;Demais Produtos;Carga Ferro Gusa e Cruz;MA;Babaçu;MA;7.445;1.996.279
+01/2023;FTL;Demais Produtos;Carga Ferro Gusa e Cruz;MA;Cana Brava;PI;80;48.960
+01/2023;FTL;Demais Produtos;Carga Ferro Gusa e Cruz;MA;Carema;MA;965;31.748
+01/2023;FTL;Demais Produtos;Carga Ferro Gusa e Cruz;MA;Rosário;MA;201;2.252
+01/2023;FTL;Demais Produtos;Caxias Nova;MA;Babaçu;MA;605;28.586
+01/2023;FTL;Demais Produtos;Caxias Nova;MA;Carga Ferro Gusa e Cruz;MA;3;954
+01/2023;FTL;Demais Produtos;Coroatá;MA;Aracapé;CE;1;949
+01/2023;FTL;Demais Produtos;Crateus;CE;Aracapé;CE;1;438
+01/2023;FTL;Demais Produtos;São Luis - Tirirical;MA;Água Branca;PI;43;28.089
+01/2023;FTL;Demais Produtos;São Luis - Tirirical;MA;Babaçu;MA;134;44.220
+01/2023;FTL;Demais Produtos;São Luis - Tirirical;MA;Coroatá;MA;3;710
+01/2023;FTL;Demais Produtos;São Luis - Tirirical;MA;Nova Russas;CE;23;18.576
+01/2023;FTL;Demais Produtos;São Luis - Tirirical;MA;Oficina Demostenes Rockert;CE;9;10.657
+01/2023;FTL;Demais Produtos;Sobral;CE;Aracapé;CE;16;3.689
+01/2023;FTL;Demais Produtos;Sobral;CE;Cariré;CE;3;98
+01/2023;FTL;Demais Produtos;Teresina;PI;Oficina Demostenes Rockert;CE;10;7.310
+01/2023;FTL;Demais Produtos;Teresina;PI;Pecem;CE;4;2.835
+01/2023;FTL;Dormentes de Madeira;Babaçu;MA;Croatá;CE;17;13.386
+01/2023;FTL;Dormentes de Madeira;Babaçu;MA;Itapecuru Mirim;MA;17;3.444
+01/2023;FTL;Dormentes de Madeira;Babaçu;MA;Sombra;PI;14;3.111
+01/2023;FTL;Dormentes de Madeira;São Luis - Tirirical;MA;Altos;PI;23;11.319
+01/2023;FTL;Gasolina;Itaqui;MA;Itarare;PI;15.310;7.090.823
+01/2023;FTL;Gasolina;Itaqui;MA;Teresina;PI;3.789;1.737.646
+01/2023;FTL;Óleo Diesel;Itaqui;MA;Itarare;PI;21.553;9.982.266
+01/2023;FTL;Óleo Diesel;Itaqui;MA;Teresina;PI;4.282;1.967.084
+01/2023;FTL;Outros - Indústria Cimenteira e Construção;Fábrica Votorantim Pecém;CE;Mucuripe;CE;79;5.414
+01/2023;FTL;Pó de Pedra;Carga Ferro Gusa e Cruz;MA;Água Branca;PI;201;119.441
+01/2023;FTL;Prd. Siderúrgicos - Bobina - BF;Pecem;CE;Teresina;PI;7.562;5.536.773
+01/2023;FTL;Prd. Siderúrgicos - Outros;Pecem;CE;Aracapé;CE;375;21.607
+01/2023;FTL;Prd. Siderúrgicos - Outros;Pecem;CE;São Luis - Tirirical;MA;497;578.946
+01/2023;MRS;Açúcar;Airosa Galvão;SP;Santos;SP;19.613;10.009.709
+01/2023;MRS;Açúcar;Itirapina;SP;Santos;SP;71.946;28.262.403
+01/2023;MRS;Açúcar;Pradopolis;SP;Santos;SP;14.303;7.715.996
+01/2023;MRS;Areia;Cruzeiro;SP;Mooca;SP;21.488;5.033.263
+01/2023;MRS;Areia;Cruzeiro;SP;Santo André;SP;2.602;646.542
+01/2023;MRS;Areia;Roseira;SP;Água Branca;SP;9.171;1.692.526
+01/2023;MRS;Areia;Roseira;SP;Mooca;SP;16.007;2.852.287
+01/2023;MRS;Bauxita;Barão de Angra;RJ;Alumínio;SP;52.710;35.783.395
+01/2023;MRS;Calcário Siderúrgico;Itutinga;MG;Volta Redonda;RJ;11.002;2.274.971
+01/2023;MRS;Carvão Mineral;Baia Sepetiba;RJ;Volta Redonda;RJ;126.998;15.112.254
+01/2023;MRS;Carvão Mineral;Porto Sudeste;RJ;Ouro Branco;MG;29.325;13.852.543
+01/2023;MRS;Celulose;Pederneiras;SP;Santos;SP;215.370;112.221.984
+01/2023;MRS;Celulose;São Silvestre;SP;Barnabé;SP;78.760;7.951.609
+01/2023;MRS;Cimento a Granel;Barbacena;MG;Santo André;SP;37.188;24.622.769
+01/2023;MRS;Cimento a Granel;Pedra do Sino;MG;São Bento;SP;32.127;20.934.756
+01/2023;MRS;Cimento acondicionado;Arará;RJ;São José dos Campos;SP;3.789;1.442.298
+01/2023;MRS;Cimento acondicionado;Pedra do Sino;MG;Arará;RJ;12.327;6.539.941
+01/2023;MRS;Cimento acondicionado;Volta Redonda;RJ;Arará;RJ;30.195;4.368.099
+01/2023;MRS;Cimento acondicionado;Volta Redonda;RJ;Capuava;SP;3.301;1.188.614
+01/2023;MRS;Cimento acondicionado;Volta Redonda;RJ;Mogi das Cruzes;SP;287;95.426
+01/2023;MRS;Cimento acondicionado;Volta Redonda;RJ;Pedrasil;SP;170;28.487
+01/2023;MRS;Cimento acondicionado;Wilson Lobato;MG;Eng. São Paulo;SP;1.334;1.119.579
+01/2023;MRS;Cimento acondicionado;Wilson Lobato;MG;Santo André;SP;630;539.974
+01/2023;MRS;Contêiner Cheio de 20 Pés;Arará;RJ;Barnabé;SP;27;14.099
+01/2023;MRS;Contêiner Cheio de 20 Pés;Arará;RJ;Conceiçãozinha;SP;11;5.834
+01/2023;MRS;Contêiner Cheio de 20 Pés;Arará;RJ;Eldorado;MG;3.741;2.404.006
+01/2023;MRS;Contêiner Cheio de 20 Pés;Arará;RJ;Floriano;RJ;1.418;244.165
+01/2023;MRS;Contêiner Cheio de 20 Pés;Barnabé;SP;Edmar Alves;SP;3.003;468.341
+01/2023;MRS;Contêiner Cheio de 20 Pés;Barnabé;SP;Jundiaí;SP;13;1.675
+01/2023;MRS;Contêiner Cheio de 20 Pés;Conceiçãozinha;SP;Curuputuba;SP;3.825;811.554
+01/2023;MRS;Contêiner Cheio de 20 Pés;Conceiçãozinha;SP;Eng. Neiva;SP;710;172.248
+01/2023;MRS;Contêiner Cheio de 20 Pés;Conceiçãozinha;SP;Jundiaí;SP;1.660;227.522
+01/2023;MRS;Contêiner Cheio de 20 Pés;Curuputuba;SP;Barnabé;SP;1.072;218.695
+01/2023;MRS;Contêiner Cheio de 20 Pés;Curuputuba;SP;Brisamar;RJ;3.815;1.096.946
+01/2023;MRS;Contêiner Cheio de 20 Pés;Curuputuba;SP;Conceiçãozinha;SP;8.131;1.725.161
+01/2023;MRS;Contêiner Cheio de 20 Pés;Dias Tavares;MG;Conceiçãozinha;SP;162;145.237
+01/2023;MRS;Contêiner Cheio de 20 Pés;Eldorado;MG;Arará;RJ;2.753;1.604.450
+01/2023;MRS;Contêiner Cheio de 20 Pés;Eldorado;MG;Brisamar;RJ;1.558;860.224
+01/2023;MRS;Contêiner Cheio de 20 Pés;Itutinga;MG;Final Ramal das Fábricas;SP;2.349;1.351.288
+01/2023;MRS;Contêiner Cheio de 20 Pés;Jundiaí;SP;Conceiçãozinha;SP;1.655;226.837
+01/2023;MRS;Contêiner Cheio de 20 Pés;Santos;SP;Boa Vista Velha;SP;12;2.300
+01/2023;MRS;Contêiner Cheio de 20 Pés;Santos;SP;Jundiaí;SP;35;4.882
+01/2023;MRS;Contêiner Cheio de 20 Pés - Perigoso;Conceiçãozinha;SP;Eng. Neiva;SP;1.853;449.541
+01/2023;MRS;Contêiner Cheio de 40 Pés;Arará;RJ;Barnabé;SP;1.748;912.822
+01/2023;MRS;Contêiner Cheio de 40 Pés;Arará;RJ;Conceiçãozinha;SP;204;108.195
+01/2023;MRS;Contêiner Cheio de 40 Pés;Arará;RJ;Edmar Alves;SP;1.556;569.888
+01/2023;MRS;Contêiner Cheio de 40 Pés;Arará;RJ;Itatiaia;RJ;96;19.481
+01/2023;MRS;Contêiner Cheio de 40 Pés;Arará;RJ;Manoel Feio;SP;1.710;776.522
+01/2023;MRS;Contêiner Cheio de 40 Pés;Arará;RJ;MultiTerminais;RJ;640;127.288
+01/2023;MRS;Contêiner Cheio de 40 Pés;Barnabé;SP;Curuputuba;SP;8.092;1.650.832
+01/2023;MRS;Contêiner Cheio de 40 Pés;Barnabé;SP;Jundiaí;SP;2.034;262.179
+01/2023;MRS;Contêiner Cheio de 40 Pés;Brisamar;RJ;Eldorado;MG;200;122.388
+01/2023;MRS;Contêiner Cheio de 40 Pés;Brisamar;RJ;Floriano;RJ;5.997;848.713
+01/2023;MRS;Contêiner Cheio de 40 Pés;Brisamar;RJ;Itatiaia;RJ;33;5.684
+01/2023;MRS;Contêiner Cheio de 40 Pés;Brisamar;RJ;MultiTerminais;RJ;609;102.447
+01/2023;MRS;Contêiner Cheio de 40 Pés;Conceiçãozinha;SP;Água Branca;SP;2.699;222.456
+01/2023;MRS;Contêiner Cheio de 40 Pés;Conceiçãozinha;SP;Curuputuba;SP;7.161;1.519.356
+01/2023;MRS;Contêiner Cheio de 40 Pés;Conceiçãozinha;SP;Jundiaí;SP;6.937;950.797
+01/2023;MRS;Contêiner Cheio de 40 Pés;Eldorado;MG;Brisamar;RJ;536;295.943
+01/2023;MRS;Contêiner Cheio de 40 Pés;Jundiaí;SP;Barnabé;SP;2.948;379.993
+01/2023;MRS;Contêiner Cheio de 40 Pés;Jundiaí;SP;Conceiçãozinha;SP;12.789;1.752.885
+01/2023;MRS;Contêiner Cheio de 40 Pés;Manoel Feio;SP;Arará;RJ;307;139.410
+01/2023;MRS;Contêiner Cheio de 40 Pés;Paulínia;SP;Conceiçãozinha;SP;173;34.527
+01/2023;MRS;Contêiner Cheio de 40 Pés;Santos;SP;Boa Vista Velha;SP;462;88.573
+01/2023;MRS;Contêiner Cheio de 40 Pés;Santos;SP;Jundiaí;SP;1.614;225.167
+01/2023;MRS;Contêiner Cheio de 40 Pés - Perigoso;Conceiçãozinha;SP;Eng. Neiva;SP;2.022;490.542
+01/2023;MRS;Contêiner Vazio de 20 Pés;Arará;RJ;Dias Tavares;MG;14;4.108
+01/2023;MRS;Contêiner Vazio de 20 Pés;Arará;RJ;Eldorado;MG;161;103.460
+01/2023;MRS;Contêiner Vazio de 20 Pés;Brisamar;RJ;Eldorado;MG;207;126.672
+01/2023;MRS;Contêiner Vazio de 20 Pés;Brisamar;RJ;Itutinga;MG;94;55.464
+01/2023;MRS;Contêiner Vazio de 20 Pés;Cragea;SP;Conceiçãozinha;SP;837;44.684
+01/2023;MRS;Contêiner Vazio de 20 Pés;Curuputuba;SP;Conceiçãozinha;SP;18;3.819
+01/2023;MRS;Contêiner Vazio de 20 Pés;Eldorado;MG;Arará;RJ;221;128.798
+01/2023;MRS;Contêiner Vazio de 20 Pés;Eng. Neiva;SP;Conceiçãozinha;SP;329;79.814
+01/2023;MRS;Contêiner Vazio de 20 Pés;Final Ramal das Fábricas;SP;Itutinga;MG;106;60.977
+01/2023;MRS;Contêiner Vazio de 20 Pés;Floriano;RJ;Arará;RJ;140;24.106
+01/2023;MRS;Contêiner Vazio de 40 Pés;Água Branca;SP;Final Ramal das Fábricas;SP;316;27.932
+01/2023;MRS;Contêiner Vazio de 40 Pés;Água Branca;SP;Jundiaí;SP;68;3.715
+01/2023;MRS;Contêiner Vazio de 40 Pés;Brisamar;RJ;Eldorado;MG;17;10.403
+01/2023;MRS;Contêiner Vazio de 40 Pés;Curuputuba;SP;Conceiçãozinha;SP;1.013;214.929
+01/2023;MRS;Contêiner Vazio de 40 Pés;Edmar Alves;SP;Arará;RJ;245;89.731
+01/2023;MRS;Contêiner Vazio de 40 Pés;Eldorado;MG;Arará;RJ;85;49.538
+01/2023;MRS;Contêiner Vazio de 40 Pés;Eldorado;MG;Brisamar;RJ;34;18.772
+01/2023;MRS;Contêiner Vazio de 40 Pés;Eng. Neiva;SP;Conceiçãozinha;SP;337;81.757
+01/2023;MRS;Contêiner Vazio de 40 Pés;Floriano;RJ;Brisamar;RJ;286;40.475
+01/2023;MRS;Contêiner Vazio de 40 Pés;Itatiaia;RJ;Arará;RJ;275;55.805
+01/2023;MRS;Contêiner Vazio de 40 Pés;Itatiaia;RJ;Brisamar;RJ;14;2.411
+01/2023;MRS;Contêiner Vazio de 40 Pés;Manoel Feio;SP;Arará;RJ;99;44.956
+01/2023;MRS;Contêiner Vazio de 40 Pés;MultiTerminais;RJ;Arará;RJ;85;16.905
+01/2023;MRS;Contêiner Vazio de 40 Pés;MultiTerminais;RJ;Brisamar;RJ;184;30.952
+01/2023;MRS;Coque;Baia Sepetiba;RJ;Volta Redonda;RJ;61.594;7.329.439
+01/2023;MRS;Coque;Curuputuba;SP;Ouro Branco;MG;25.859;15.562.540
+01/2023;MRS;Coque;Curuputuba;SP;Volta Redonda;RJ;1.876;325.559
+01/2023;MRS;Enxofre;Conceiçãozinha;SP;Várzea Paulista;SP;1.453;191.697
+01/2023;MRS;Escória;Siderúrgica do Atlântico;RJ;Curuputuba;SP;3.120;947.029
+01/2023;MRS;Escória;Siderúrgica do Atlântico;RJ;São Bento;SP;6.080;2.547.191
+01/2023;MRS;Farelo de Soja;Pederneiras;SP;Santos;SP;11.288;5.881.793
+01/2023;MRS;Ferro Gusa;Sarzedo Novo;MG;Arará;RJ;61.468;33.849.133
+01/2023;MRS;Ferro Gusa;Sarzedo Novo;MG;Itaguai;RJ;7.743;4.088.396
+01/2023;MRS;Ferro Gusa;Sarzedo Novo;MG;Volta Redonda;RJ;4.200;1.705.267
+01/2023;MRS;Minério de Ferro;Baia Sepetiba;RJ;Volta Redonda;RJ;55.093;6.555.846
+01/2023;MRS;Minério de Ferro;Carlos Newlands;MG;Baia Sepetiba;RJ;67.899;34.745.751
+01/2023;MRS;Minério de Ferro;Carlos Newlands;MG;Brisamar;RJ;186.347;94.427.056
+01/2023;MRS;Minério de Ferro;Carlos Newlands;MG;Guaiba;RJ;43.986;23.481.794
+01/2023;MRS;Minério de Ferro;Carlos Newlands;MG;Porto Sudeste;RJ;42.432;21.628.736
+01/2023;MRS;Minério de Ferro;Carlos Newlands;MG;Siderúrgica do Atlântico;RJ;86.771;45.357.544
+01/2023;MRS;Minério de Ferro;Casa de Pedra;MG;Baia Sepetiba;RJ;1.052.807;464.404.748
+01/2023;MRS;Minério de Ferro;Casa de Pedra;MG;Porto Sudeste;RJ;30.053;13.196.602
+01/2023;MRS;Minério de Ferro;Casa de Pedra;MG;Volta Redonda;RJ;260.201;83.814.644
+01/2023;MRS;Minério de Ferro;Cel. João Carlos Guedes;MG;Baia Sepetiba;RJ;41.474;17.567.764
+01/2023;MRS;Minério de Ferro;Cel. João Carlos Guedes;MG;Brisamar;RJ;103.336;43.254.899
+01/2023;MRS;Minério de Ferro;Cel. João Carlos Guedes;MG;Porto Sudeste;RJ;987;416.104
+01/2023;MRS;Minério de Ferro;Dr. Joaquim Murtinho;MG;Baia Sepetiba;RJ;219.246;99.980.341
+01/2023;MRS;Minério de Ferro;Dr. Joaquim Murtinho;MG;Brisamar;RJ;145.304;65.534.864
+01/2023;MRS;Minério de Ferro;Dr. Joaquim Murtinho;MG;Guaiba;RJ;14.836;7.093.670
+01/2023;MRS;Minério de Ferro;Dr. Joaquim Murtinho;MG;Porto Sudeste;RJ;44.958;20.411.786
+01/2023;MRS;Minério de Ferro;Dr. Joaquim Murtinho;MG;Volta Redonda;RJ;9.565;3.223.624
+01/2023;MRS;Minério de Ferro;Guaiba;RJ;Pires;MG;3.722;2.025.218
+01/2023;MRS;Minério de Ferro;Itutinga;MG;Siderúrgica do Atlântico;RJ;14.611;4.920.604
+01/2023;MRS;Minério de Ferro;Olhos D Água;MG;Baia Sepetiba;RJ;29.386;16.191.303
+01/2023;MRS;Minério de Ferro;Olhos D Água;MG;Guaiba;RJ;44.584;25.551.402
+01/2023;MRS;Minério de Ferro;Otavio Dapieve;MG;Baia Sepetiba;RJ;358.368;173.657.248
+01/2023;MRS;Minério de Ferro;Otavio Dapieve;MG;Guaiba;RJ;1.075.437;544.921.777
+01/2023;MRS;Minério de Ferro;Otavio Dapieve;MG;Siderúrgica do Atlântico;RJ;271.765;134.680.754
+01/2023;MRS;Minério de Ferro;Otavio Dapieve;MG;Volta Redonda;RJ;65.503;23.946.717
+01/2023;MRS;Minério de Ferro;Pires;MG;Baia Sepetiba;RJ;710.247;322.035.932
+01/2023;MRS;Minério de Ferro;Pires;MG;Guaiba;RJ;132.223;62.876.532
+01/2023;MRS;Minério de Ferro;Pires;MG;Porto Sudeste;RJ;86.608;39.096.063
+01/2023;MRS;Minério de Ferro;Pires;MG;Siderúrgica do Atlântico;RJ;132.465;61.518.600
+01/2023;MRS;Minério de Ferro;Sarzedo;MG;Baia Sepetiba;RJ;70.009;36.993.385
+01/2023;MRS;Minério de Ferro;Sarzedo;MG;Brisamar;RJ;119.680;62.641.588
+01/2023;MRS;Minério de Ferro;Sarzedo;MG;Guaiba;RJ;15.483;8.523.840
+01/2023;MRS;Minério de Ferro;Sarzedo;MG;Porto Sudeste;RJ;29.549;15.554.859
+01/2023;MRS;Minério de Ferro;Sarzedo Novo;MG;Baia Sepetiba;RJ;290.191;152.353.757
+01/2023;MRS;Minério de Ferro;Sarzedo Novo;MG;Brisamar;RJ;43.008;22.364.676
+01/2023;MRS;Minério de Ferro;Sarzedo Novo;MG;Guaiba;RJ;14.039;7.681.186
+01/2023;MRS;Minério de Ferro;Sarzedo Novo;MG;Porto Sudeste;RJ;704.492;368.457.766
+01/2023;MRS;Minério de Ferro;Suzano Novo;SP;Siderúrgica do Atlântico;RJ;41.280;18.640.809
+01/2023;MRS;Minério de Ferro;Viga;MG;Baia Sepetiba;RJ;73.677;32.187.418
+01/2023;MRS;Minério de Ferro;Viga;MG;Guaiba;RJ;177.092;81.283.811
+01/2023;MRS;Minério de Ferro Especial - MRS distancia menor 100 km;Curuputuba;SP;Dias Tavares;MG;10.922;4.316.931
+01/2023;MRS;Minério de Ferro Especial - MRS distancia menor 100 km;Itaguai;RJ;Pires;MG;33.089;15.102.282
+01/2023;MRS;Minério de Ferro Especial - MRS distancia menor 100 km;Otavio Dapieve;MG;Ouro Branco;MG;26.110;2.557.082
+01/2023;MRS;Óleo Diesel;Embiruçu;MG;Cel. João Carlos Guedes;MG;2.680;388.720
+01/2023;MRS;Outras - Carga Geral Não Conteinerizada;Brisamar;RJ;Volta Redonda;RJ;570;64.977
+01/2023;MRS;Outros Graneis Minerais;Arará;RJ;Dias Tavares;MG;1.740;510.646
+01/2023;MRS;Outros Graneis Minerais;Arará;RJ;Terminal Paraibuna de Metais;MG;10.594;3.117.665
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Barbará;RJ;Ouro Branco;MG;204;88.415
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Lafaiete Bandeira;MG;Boa Vista Velha;SP;11.910;9.422.477
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Lafaiete Bandeira;MG;São Caetano do Sul;SP;213;145.930
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Lafaiete Bandeira;MG;Usiminas;SP;5.439;2.928.352
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Manoel Feio;SP;Paulínia;SP;1.986;312.137
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;Barbará;RJ;952;325.080
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;Caçapava;SP;142;76.213
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;Ipiranga;SP;1.999;1.335.617
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;Itaguai;RJ;5.673;2.658.333
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;Parque Industrial;MG;18.875;3.033.476
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;São Bento;SP;9.826;6.016.930
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Ouro Branco;MG;São Caetano do Sul;SP;2.522;1.695.623
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Parque Industrial;MG;Boa Vista Velha;SP;2.288;1.988.027
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Piaçaguera;SP;Barbará;RJ;1.977;718.803
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Piaçaguera;SP;Ipiranga;SP;5.624;296.120
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Piaçaguera;SP;São Caetano do Sul;SP;878;42.550
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BF;Piaçaguera;SP;Utinga;SP;15.513;695.897
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Brisamar;RJ;Volta Redonda;RJ;25.949;2.958.082
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Itaguai;RJ;Floriano;RJ;1.229;183.763
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Lafaiete Bandeira;MG;Barbará;RJ;4.699;1.664.658
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Lafaiete Bandeira;MG;Cruzeiro;SP;1.133;502.704
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Lafaiete Bandeira;MG;Manoel Feio;SP;4.038;2.607.049
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Lafaiete Bandeira;MG;Utinga;SP;68;46.833
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Parque Industrial;MG;Barbará;RJ;1.417;612.159
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Parque Industrial;MG;Cruzeiro;SP;1.143;596.012
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Piaçaguera;SP;Cruzeiro;SP;1.866;685.045
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Piaçaguera;SP;Ipiranga;SP;782;41.174
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Piaçaguera;SP;Replan;SP;2.015;386.283
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Piaçaguera;SP;Usiminas;SP;184;30.635
+01/2023;MRS;Prd. Siderúrgicos - Bobina - BQ;Volta Redonda;RJ;Brisamar;RJ;32.876;3.747.732
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Dias Tavares;MG;Caçapava;SP;1.006;635.429
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Dias Tavares;MG;Eldorado;MG;4.807;1.678.296
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Ouro Branco;MG;Barbará;RJ;1.199;409.423
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Ouro Branco;MG;Caçapava;SP;16.182;8.685.073
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Ouro Branco;MG;Itaguai;RJ;2.082;975.612
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Ouro Branco;MG;Pinheirinho;SP;222;138.920
+01/2023;MRS;Prd. Siderúrgicos - Fio Máquina;Saudade;RJ;Dias Tavares;MG;504;117.589
+01/2023;MRS;Prd. Siderúrgicos - Outros;Barbará;RJ;Brisamar;RJ;7.445;886.870
+01/2023;MRS;Prd. Siderúrgicos - Outros;Barbará;RJ;Volta Redonda;RJ;416;2.132
+01/2023;MRS;Prd. Siderúrgicos - Outros;Brisamar;RJ;Curuputuba;SP;12.328;3.544.731
+01/2023;MRS;Prd. Siderúrgicos - Outros;Brisamar;RJ;Manoel Feio;SP;5.228;2.213.744
+01/2023;MRS;Prd. Siderúrgicos - Outros;Floriano;RJ;Cruzeiro;SP;2.521;201.632
+01/2023;MRS;Prd. Siderúrgicos - Outros;Floriano;RJ;Volta Redonda;RJ;2.603;71.652
+01/2023;MRS;Prd. Siderúrgicos - Outros;Itaguai;RJ;Arará;RJ;2.450;258.060
+01/2023;MRS;Prd. Siderúrgicos - Outros;Itaguai;RJ;Caçapava;SP;4.877;1.635.305
+01/2023;MRS;Prd. Siderúrgicos - Outros;Itaguai;RJ;Pinheirinho;SP;169;71.718
+01/2023;MRS;Prd. Siderúrgicos - Outros;Lafaiete Bandeira;MG;Curuputuba;SP;17.551;8.946.165
+01/2023;MRS;Prd. Siderúrgicos - Outros;Lafaiete Bandeira;MG;Floriano;RJ;1.676;609.581
+01/2023;MRS;Prd. Siderúrgicos - Outros;Lafaiete Bandeira;MG;Manoel Feio;SP;13.664;8.821.874
+01/2023;MRS;Prd. Siderúrgicos - Outros;Lafaiete Bandeira;MG;Piaçaguera;SP;1.910;1.351.111
+01/2023;MRS;Prd. Siderúrgicos - Outros;Lafaiete Bandeira;MG;Utinga;SP;8.125;5.595.881
+01/2023;MRS;Prd. Siderúrgicos - Outros;Manoel Feio;SP;Mogi das Cruzes;SP;486;11.202
+01/2023;MRS;Prd. Siderúrgicos - Outros;Manoel Feio;SP;Volta Redonda;RJ;1.928;596.608
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Caçapava;SP;8.273;4.440.218
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Eng. Cesar de Souza;SP;1.501;992.561
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Ipiranga;SP;557;372.155
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Itutinga;MG;9.547;1.334.861
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Manoel Feio;SP;966;611.325
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;Parque Industrial;MG;10.933;1.757.086
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;São Bento;SP;748;458.036
+01/2023;MRS;Prd. Siderúrgicos - Outros;Ouro Branco;MG;São Caetano do Sul;SP;2.508;1.686.211
+01/2023;MRS;Prd. Siderúrgicos - Outros;Piaçaguera;SP;Manoel Feio;SP;8.241;508.955
+01/2023;MRS;Prd. Siderúrgicos - Outros;Piaçaguera;SP;Siderúrgica do Atlântico;RJ;548;273.290
+01/2023;MRS;Prd. Siderúrgicos - Outros;São Bento;SP;São Caetano do Sul;SP;542;32.511
+01/2023;MRS;Prd. Siderúrgicos - Outros;Saudade;RJ;Caçapava;SP;491;99.041
+01/2023;MRS;Prd. Siderúrgicos - Outros;Saudade;RJ;Pinheirinho;SP;720;209.355
+01/2023;MRS;Prd. Siderúrgicos - Outros;Siderúrgica do Atlântico;RJ;Lafaiete Bandeira;MG;10.611;5.192.821
+01/2023;MRS;Prd. Siderúrgicos - Outros;Siderúrgica do Atlântico;RJ;Piaçaguera;SP;33.096;16.587.682
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Arará;RJ;1.208;174.752
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Barbará;RJ;9.230;47.322
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Brisamar;RJ;64;7.295
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Caçapava;SP;263;56.101
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Cruzeiro;SP;327;35.155
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Eldorado;MG;1.247;711.847
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Floriano;RJ;1.252;34.463
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Manoel Feio;SP;30.764;9.519.735
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;Mogi das Cruzes;SP;667;221.774
+01/2023;MRS;Prd. Siderúrgicos - Outros;Volta Redonda;RJ;São Bento;SP;4.162;1.202.609
+01/2023;MRS;Prd. Siderúrgicos - Placa;Arará;RJ;Curuputuba;SP;414;131.735
+01/2023;MRS;Prd. Siderúrgicos - Placa;Cel. João Carlos Guedes;MG;Barreiro;MG;18.835;2.417.848
+01/2023;MRS;Prd. Siderúrgicos - Placa;Dias Tavares;MG;Parque Industrial;MG;4.853;1.689.504
+01/2023;MRS;Prd. Siderúrgicos - Placa;Eldorado;MG;Itaguai;RJ;4.968;2.782.745
+01/2023;MRS;Prd. Siderúrgicos - Placa;Eldorado;MG;Piaçaguera;SP;694;543.851
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Caçapava;SP;5.503;2.953.525
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Curuputuba;SP;136;67.583
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Eldorado;MG;11.713;1.894.156
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Itaguai;RJ;12.627;5.916.936
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Lafaiete Bandeira;MG;4.669;149.113
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Manoel Feio;SP;1.429;904.331
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Parque Industrial;MG;966;155.249
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Piaçaguera;SP;10.872;7.524.598
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;Pinheirinho;SP;8.774;5.490.505
+01/2023;MRS;Prd. Siderúrgicos - Placa;Ouro Branco;MG;São Bento;SP;748;458.036
+01/2023;MRS;Prd. Siderúrgicos - Placa;Parque Industrial;MG;Barbará;RJ;1.120;483.852
+01/2023;MRS;Prd. Siderúrgicos - Placa;Siderúrgica do Atlântico;RJ;Eldorado;MG;5.147;3.232.027
+01/2023;MRS;Prd. Siderúrgicos - Tubos;Barreiro;MG;Arará;RJ;4.361;2.519.009
+01/2023;MRS;Prd. Siderúrgicos - Tubos;Brisamar;RJ;Curuputuba;SP;400;115.014
+01/2023;MRS;Prd. Siderúrgicos - Tubos;Cel. João Carlos Guedes;MG;Arará;RJ;5.961;2.677.991
+01/2023;MRS;Prd. Siderúrgicos - Tubos;Cel. João Carlos Guedes;MG;Barreiro;MG;3.589;460.719
+01/2023;MRS;Prd. Siderúrgicos - Tubos;Curuputuba;SP;Arará;RJ;9.550;3.038.829
+01/2023;MRS;Prd. Siderúrgicos - Vergalhões;Dias Tavares;MG;Manoel Feio;SP;736;535.638
+01/2023;MRS;Prd. Siderúrgicos - Vergalhões;Volta Redonda;RJ;Eldorado;MG;1.658;946.465
+01/2023;MRS;Prd. Siderúrgicos - Vergalhões;Volta Redonda;RJ;Manoel Feio;SP;6.303;1.950.425
+01/2023;MRS;Sucata;Eldorado;MG;Itaguai;RJ;137;76.738
+01/2023;MRS;Veículos;Parque Industrial;MG;Piaçaguera;SP;585;457.849
+01/2023;RMC;Açúcar;Iturama;MG;Santos;SP;37.517;33.804.389
+01/2023;RMC;Adubo Orgânico a Granel;Conceiçãozinha;SP;Rio Verde;GO;14.131;17.228.088
+01/2023;RMC;Cloreto de Potássio;Conceiçãozinha;SP;Rio Verde;GO;13.377;16.308.836
+01/2023;RMC;Cloreto de Potássio;Cubatão;SP;Rio Verde;GO;679;814.975
+01/2023;RMC;Farelo de Soja;Rio Verde;GO;Santos;SP;13.132;15.922.641
+01/2023;RMC;Grãos - Milho;Rio Verde;GO;Conceiçãozinha;SP;9.814;11.964.929
+01/2023;RMC;Grãos - Milho;Rio Verde;GO;Santos;SP;3.443;4.174.658
+01/2023;RMC;Grãos - Milho;São Simão;GO;Conceiçãozinha;SP;46.399;46.210.105
+01/2023;RMC;Grãos - Milho;São Simão;GO;Santos;SP;26.269;25.987.022
+01/2023;RMC;Soja;Rio Verde;GO;Conceiçãozinha;SP;7.909;9.642.413
+01/2023;RMC;Soja;Rio Verde;GO;Santos;SP;4.370;5.298.652
+01/2023;RMN;Álcool;Chapadao do Sul;MS;Replan;SP;29.179;27.454.311
+01/2023;RMN;Álcool;Rondonópolis;MT;Replan;SP;57.762;80.430.777
+01/2023;RMN;Álcool;T. Olacyr F. Morais;MS;Replan;SP;3.928;4.137.197
+01/2023;RMN;Celulose;Aparecida do Taboado;MS;Barnabé;SP;156.678;145.221.860
+01/2023;RMN;Contêiner cheio 53 pés;Rondonópolis;MT;Boa Vista Nova;SP;117;160.761
+01/2023;RMN;Contêiner cheio 53 pés;Rondonópolis;MT;Tutóia;SP;87;101.797
+01/2023;RMN;Contêiner Cheio de 20 Pés;Rondonópolis;MT;Cubatão;SP;3.354;5.460.896
+01/2023;RMN;Contêiner Cheio de 40 Pés;Rondonópolis;MT;Boa Vista Velha;SP;40.169;54.985.856
+01/2023;RMN;Contêiner Cheio de 40 Pés;Rondonópolis;MT;Cubatão;SP;30.807;50.168.565
+01/2023;RMN;Contêiner Cheio de 40 Pés;Rondonópolis;MT;Tutóia;SP;8.496;9.912.940
+01/2023;RMN;Contêiner Vazio de 20 Pés;Rondonópolis;MT;Cubatão;SP;4;6.512
+01/2023;RMN;Contêiner Vazio de 40 Pés;Rondonópolis;MT;Boa Vista Nova;SP;22;30.143
+01/2023;RMN;Contêiner Vazio de 40 Pés;Rondonópolis;MT;Cubatão;SP;235;382.827
+01/2023;RMN;Farelo de Soja;Alto Araguaia;MT;Conceiçãozinha;SP;2.935;4.131.648
+01/2023;RMN;Farelo de Soja;Alto Araguaia;MT;Santos;SP;72.179;101.109.064
+01/2023;RMN;Farelo de Soja;Rondonópolis;MT;Conceiçãozinha;SP;103.196;169.948.221
+01/2023;RMN;Farelo de Soja;Rondonópolis;MT;Santos;SP;112.148;184.149.829
+01/2023;RMN;Grãos - Milho;Chapadao do Sul;MS;Conceiçãozinha;SP;3.322;3.980.559
+01/2023;RMN;Grãos - Milho;Rondonópolis;MT;Conceiçãozinha;SP;300.889;495.853.966
+01/2023;RMN;Grãos - Milho;Rondonópolis;MT;Estação TUF;SP;1.006;1.645.535
+01/2023;RMN;Grãos - Milho;Rondonópolis;MT;Santos;SP;241.169;395.759.441
+01/2023;RMN;Óleo Diesel;Rondonópolis;MT;Replan;SP;253;352.424
+01/2023;RMN;Soja;Rondonópolis;MT;Conceiçãozinha;SP;75.079;123.660.159
+01/2023;RMN;Soja;Rondonópolis;MT;Santos;SP;180.077;295.683.080
+01/2023;RMO;Minério de Ferro;Antônio Maria Coelho;MS;Porto Esperança;MS;202.762;9.423.363
+01/2023;RMO;Prd. Siderúrgicos - Outros;Bauru;SP;Ladário;MS;3.306;4.300.120
+01/2023;RMP;Açúcar;Boa Vista Nova;SP;Santos;SP;14.575;3.949.472
+01/2023;RMP;Açúcar;Boa Vista Velha;SP;Santos;SP;43.525;11.815.641
+01/2023;RMP;Açúcar;Pradopolis;SP;Santos;SP;13.728;7.405.802
+01/2023;RMP;Açúcar;Rio Preto Paulista;SP;Santos;SP;29.096;19.563.421
+01/2023;RMP;Açúcar;Votuporanga;SP;Santos;SP;31.189;24.157.127
+01/2023;RMP;Adubo Orgânico a Granel;Conceiçãozinha;SP;Rondonópolis;MT;180.309;297.667.210
+01/2023;RMP;Adubo Orgânico a Granel;Cubatão;SP;Rondonópolis;MT;3.914;6.372.315
+01/2023;RMP;Cloreto de Potássio;Conceiçãozinha;SP;Rondonópolis;MT;17.495;28.814.160
+01/2023;RMP;Contêiner Cheio de 20 Pés;Cubatão;SP;Rondonópolis;MT;292;475.400
+01/2023;RMP;Contêiner Cheio de 40 Pés;Boa Vista Nova;SP;Rondonópolis;MT;38;52.069
+01/2023;RMP;Contêiner Cheio de 40 Pés;Boa Vista Velha;SP;Rondonópolis;MT;13.803;18.894.413
+01/2023;RMP;Contêiner Cheio de 40 Pés;Cubatão;SP;Rondonópolis;MT;2.330;3.793.432
+01/2023;RMP;Contêiner Cheio de 40 Pés;Tutóia;SP;Rondonópolis;MT;1.239;1.446.587
+01/2023;RMP;Contêiner Vazio de 20 Pés;Boa Vista Velha;SP;Rondonópolis;MT;352;481.839
+01/2023;RMP;Contêiner Vazio de 20 Pés;Cubatão;SP;Rondonópolis;MT;529;863.021
+01/2023;RMP;Contêiner Vazio de 20 Pés;Tutóia;SP;Rondonópolis;MT;7;8.190
+01/2023;RMP;Contêiner Vazio de 40 Pés;Boa Vista Velha;SP;Rondonópolis;MT;2.434;3.331.811
+01/2023;RMP;Contêiner Vazio de 40 Pés;Cubatão;SP;Rondonópolis;MT;3.896;6.356.012
+01/2023;RMP;Contêiner Vazio de 40 Pés;Tutóia;SP;Rondonópolis;MT;747;869.822
+01/2023;RMP;Gasolina;Replan;SP;Rondonópolis;MT;4.246;5.895.690
+01/2023;RMP;Gasolina;Replan;SP;T. Olacyr F. Morais;MS;2.135;2.255.830
+01/2023;RMP;Óleo Diesel;Replan;SP;Rio Preto Paulista;SP;2.714;1.142.168
+01/2023;RMP;Óleo Diesel;Replan;SP;Rondonópolis;MT;60.815;84.565.555
+01/2023;RMP;Óleo Diesel;Replan;SP;T. Olacyr F. Morais;MS;9.492;10.029.198
+01/2023;RMP;Ureia;Cubatão;SP;Rondonópolis;MT;12.158;19.797.842
+01/2023;RMP;Ureia;Estação TUF;SP;Rondonópolis;MT;6.949;11.366.625
+01/2023;RMS;Açúcar;Londrina;PR;D Pedro II;PR;37.044;23.375.055
+01/2023;RMS;Açúcar;Marialva;PR;D Pedro II;PR;49.902;30.948.516
+01/2023;RMS;Açúcar;Maringa;PR;D Pedro II;PR;81.907;53.383.498
+01/2023;RMS;Açúcar;Rolandia;PR;D Pedro II;PR;56.417;34.703.567
+01/2023;RMS;Adubo Orgânico a Granel;D Pedro II;PR;Cará-Cará;PR;55;13.193
+01/2023;RMS;Adubo Orgânico a Granel;km 5;PR;Cascavel;PR;2.683;1.959.862
+01/2023;RMS;Adubo Orgânico a Granel;km 5;PR;Maringa;PR;2.666;1.726.057
+01/2023;RMS;Adubo Orgânico a Granel;Rio Grande;RS;Cruz Alta;RS;5.230;3.859.435
+01/2023;RMS;Álcool;Araucária Terminal;PR;Lages;SC;33;13.144
+01/2023;RMS;Álcool;Eng. Vicente Montanha;PR;Araucária Terminal;PR;1.904;978.026
+01/2023;RMS;Álcool;Eng. Vicente Montanha;PR;Pátio Industrial;RS;12.596;15.660.631
+01/2023;RMS;Álcool;Londrina;PR;Araucária Terminal;PR;10.967;5.549.518
+01/2023;RMS;Álcool;Londrina;PR;Pátio Industrial;RS;4.044;4.996.976
+01/2023;RMS;Álcool;Ourinhos;SP;Araucária Terminal;PR;3.189;2.305.821
+01/2023;RMS;Álcool;Ourinhos;SP;Pátio Industrial;RS;948;1.377.147
+01/2023;RMS;Álcool;Sarandi;PR;Araucária Terminal;PR;10.124;5.172.664
+01/2023;RMS;Álcool;Sarandi;PR;Pátio Industrial;RS;1.951;2.420.338
+01/2023;RMS;Calcário Corretivo;Tranqueira;PR;Maringa;PR;6.886;4.040.704
+01/2023;RMS;Celulose;Ortigueira;PR;km 5;PR;67.520;30.863.323
+01/2023;RMS;Cimento acondicionado;Apiai;SP;Londrina;PR;17.404;10.055.909
+01/2023;RMS;Cimento acondicionado;Apiai;SP;Uvaranas;PR;19.120;3.719.260
+01/2023;RMS;Cimento acondicionado;Rio Branco do Sul;PR;Cascavel;PR;9.144;6.268.230
+01/2023;RMS;Cimento acondicionado;Rio Branco do Sul;PR;Londrina;PR;9.867;5.739.741
+01/2023;RMS;Cimento acondicionado;Rio Branco do Sul;PR;Maringa;PR;17.718;10.674.386
+01/2023;RMS;Clínquer;Rio Branco do Sul;PR;Pátio Industrial;RS;23.783;21.201.664
+01/2023;RMS;Cloreto de Potássio;D Pedro II;PR;Cará-Cará;PR;838;201.016
+01/2023;RMS;Cloreto de Potássio;km 5;PR;Cará-Cará;PR;135;31.799
+01/2023;RMS;Cloreto de Potássio;km 5;PR;Maringa;PR;822;532.190
+01/2023;RMS;Contêiner Cheio de 20 Pés;Cambe;PR;D Pedro II;PR;4.644;2.897.242
+01/2023;RMS;Contêiner Cheio de 40 Pés;Cambe;PR;D Pedro II;PR;55.745;34.777.520
+01/2023;RMS;Contêiner Cheio de 40 Pés;Cascavel;PR;D Pedro II;PR;38.090;27.988.493
+01/2023;RMS;Contêiner Cheio de 40 Pés;Ortigueira;PR;D Pedro II;PR;28.284;13.050.888
+01/2023;RMS;Contêiner Vazio de 20 Pés;D Pedro II;PR;Cambe;PR;141;87.965
+01/2023;RMS;Contêiner Vazio de 40 Pés;D Pedro II;PR;Cambe;PR;7.735;4.825.618
+01/2023;RMS;Contêiner Vazio de 40 Pés;D Pedro II;PR;Cascavel;PR;5.604;4.117.813
+01/2023;RMS;Contêiner Vazio de 40 Pés;D Pedro II;PR;Ortigueira;PR;4.096;1.889.988
+01/2023;RMS;Farelo de Soja;Cruz Alta;RS;Rio Grande;RS;22.426;16.549.087
+01/2023;RMS;Farelo de Soja;Desvio Ribas;PR;D Pedro II;PR;30.616;7.046.088
+01/2023;RMS;Farelo de Soja;Ijuí;RS;Rio Grande;RS;6.081;4.812.734
+01/2023;RMS;Farelo de Soja;Londrina;PR;D Pedro II;PR;33.870;21.372.239
+01/2023;RMS;Farelo de Soja;Maringa;PR;D Pedro II;PR;4.619;3.010.465
+01/2023;RMS;Fosfato;km 5;PR;Cará-Cará;PR;3.552;836.684
+01/2023;RMS;Fosfato;Rio Grande;RS;Cruz Alta;RS;404;298.128
+01/2023;RMS;Gasolina;Araucária Terminal;PR;Eng. Vicente Montanha;PR;4.901;2.517.495
+01/2023;RMS;Gasolina;Araucária Terminal;PR;Lages;SC;2.767;1.102.165
+01/2023;RMS;Gasolina;Araucária Terminal;PR;Londrina;PR;5.533;2.799.807
+01/2023;RMS;Gasolina;Araucária Terminal;PR;Ourinhos;SP;1.003;725.224
+01/2023;RMS;Gasolina;Araucária Terminal;PR;Passo Fundo;RS;1.774;1.507.924
+01/2023;RMS;Gasolina;Araucária Terminal;PR;Sarandi;PR;900;459.837
+01/2023;RMS;Gasolina;D Pedro II;PR;Araucária Terminal;PR;5.461;682.558
+01/2023;RMS;Gasolina;D Pedro II;PR;Eng. Vicente Montanha;PR;364;232.471
+01/2023;RMS;Gasolina;D Pedro II;PR;Londrina;PR;711;448.646
+01/2023;RMS;Gasolina;D Pedro II;PR;Maringa;PR;211;137.520
+01/2023;RMS;Gasolina;D Pedro II;PR;Sarandi;PR;3.906;2.467.025
+01/2023;RMS;Gasolina;Pátio Industrial;RS;Ijuí;RS;91;45.571
+01/2023;RMS;Gasolina;Pátio Industrial;RS;Passo Fundo;RS;1.351;376.368
+01/2023;RMS;Gasolina;Pátio Industrial;RS;Santa Maria;RS;2.336;716.999
+01/2023;RMS;Grãos - Milho;Cascavel;PR;São Francisco do Sul;SC;9.722;8.180.760
+01/2023;RMS;Grãos - Milho;Londrina;PR;D Pedro II;PR;72.163;45.535.421
+01/2023;RMS;Grãos - Milho;Marialva;PR;D Pedro II;PR;71.970;44.634.778
+01/2023;RMS;Grãos - Milho;Marialva;PR;São Francisco do Sul;SC;16.838;12.238.799
+01/2023;RMS;Grãos - Milho;Maringa;PR;D Pedro II;PR;42.910;27.966.914
+01/2023;RMS;Grãos - Milho;Maringa;PR;São Francisco do Sul;SC;219.357;166.366.365
+01/2023;RMS;Grãos - Milho;Rolandia;PR;D Pedro II;PR;3.355;2.065.028
+01/2023;RMS;Grãos - Trigo;Cacequi;RS;Rio Grande;RS;24.601;11.862.295
+01/2023;RMS;Grãos - Trigo;Cruz Alta;RS;Rio Grande;RS;79.172;58.424.331
+01/2023;RMS;Grãos - Trigo;Ijuí;RS;Rio Grande;RS;24.259;19.199.488
+01/2023;RMS;Grãos - Trigo;J.De Castilhos;RS;Rio Grande;RS;2.679;1.764.483
+01/2023;RMS;Grãos - Trigo;Santo Ângelo;RS;Rio Grande;RS;2.083;1.762.127
+01/2023;RMS;Grãos - Trigo;Tigre;RS;Rio Grande;RS;3.639;2.030.670
+01/2023;RMS;Óleo Diesel;Araucária Terminal;PR;Eng. Vicente Montanha;PR;20.078;10.313.465
+01/2023;RMS;Óleo Diesel;Araucária Terminal;PR;Lages;SC;1.527;608.242
+01/2023;RMS;Óleo Diesel;Araucária Terminal;PR;Londrina;PR;10.531;5.328.894
+01/2023;RMS;Óleo Diesel;Araucária Terminal;PR;Ourinhos;SP;5.032;3.638.411
+01/2023;RMS;Óleo Diesel;Araucária Terminal;PR;Passo Fundo;RS;3.053;2.595.092
+01/2023;RMS;Óleo Diesel;D Pedro II;PR;Araucária Terminal;PR;27.037;3.379.298
+01/2023;RMS;Óleo Diesel;D Pedro II;PR;Eng. Vicente Montanha;PR;567;362.119
+01/2023;RMS;Óleo Diesel;D Pedro II;PR;Londrina;PR;1.248;787.497
+01/2023;RMS;Óleo Diesel;D Pedro II;PR;Passo Fundo;RS;393;383.175
+01/2023;RMS;Óleo Diesel;D Pedro II;PR;Sarandi;PR;3.008;1.899.849
+01/2023;RMS;Óleo Diesel;Ijuí;RS;Araucária Terminal;PR;3.125;3.974.771
+01/2023;RMS;Óleo Diesel;Londrina;PR;Ourinhos;SP;806;174.930
+01/2023;RMS;Óleo Diesel;Passo Fundo;RS;Araucária Terminal;PR;7.684;6.531.506
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Cruz Alta;RS;1.449;648.118
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Eng. Vicente Montanha;PR;686;852.905
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Ijuí;RS;3.439;1.722.192
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Lages;SC;6.350;2.650.784
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Londrina;PR;1.406;1.737.326
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Passo Fundo;RS;9.392;2.616.477
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Santa Maria;RS;1.833;562.610
+01/2023;RMS;Óleo Diesel;Pátio Industrial;RS;Sarandi;PR;4.626;5.718.859
+01/2023;RMS;Soja;Cruz Alta;RS;Rio Grande;RS;15.391;11.357.664
+01/2023;RMS;Soja;Maringa;PR;D Pedro II;PR;2.973;1.937.676
+01/2023;RMS;Soja;Tupancireta;RS;Rio Grande;RS;4.236;2.892.870
+01/2023;RMS;Ureia;km 5;PR;Maringa;PR;990;640.958
+01/2023;RMS;Ureia;São Francisco do Sul;SC;Maringa;PR;1.186;899.495
