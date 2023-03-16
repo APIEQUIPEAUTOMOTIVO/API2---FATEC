@@ -4,7 +4,7 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
 
 ## Empresa
 
-  <img style="border-radius: 50%;" src="https://i.imgur.com/TuP6Q9f.png" width="1000px;" alt=""/>
+  <a href="https://github.com/APIEQUIPEAUTOMOTIVO/API2---FATEC/wiki/Sobre-a-empresa"><img style="border-radius: 50%;" src="https://i.imgur.com/TuP6Q9f.png" width="1000px;" alt=""/></a>
 
 ## 📌 Integrantes da Equipe:
 
