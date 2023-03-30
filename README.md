@@ -21,7 +21,7 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
   <table align="center">
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/larissa-arruda-a139901a0/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/C4D03AQH1AunREnA-Ig/profile-displayphoto-shrink_200_200/0/1663801902329?e=1683158400&v=beta&t=914nnoXcXNmRlLlQP0culm48wiRNmtg6caESk4sGCVk" width="100px;" alt=""/><br /><sub><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px;" alt=""/></sub><br/><sub><b>Larissa Arruda</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
-    <td align="center"><a href="https://www.linkedin.com/in/luiz-tozi-378437266/"><img style="border-radius: 50%;" src="https://pps.whatsapp.net/v/t61.24694-24/322243361_1874414289592225_1818757247908351265_n.jpg?ccb=11-4&oh=01_AdQOWVwEmqjvJ7ll-QlKXSdEy1JqN1VWiuQcPJ6XQyWQzQ&oe=64208DD4" width="100px;" alt=""/><br /><sub><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px;" alt=""/></sub><br/><sub><b>Luiz Henrique</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/luiz-tozi-378437266/"><img style="border-radius: 50%;" src="https://pps.whatsapp.net/v/t61.24694-24/322243361_1874414289592225_1818757247908351265_n.jpg?ccb=11-4&oh=01_AdQ1Ah1x2zI5SwtXqhehoO73ntlqwx3PSI8t885g-uEm3w&oe=643221D4" width="100px;" alt=""/><br /><sub><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px;" alt=""/></sub><br/><sub><b>Luiz Henrique</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
   </tr>
 </table>
 
