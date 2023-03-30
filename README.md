@@ -63,10 +63,15 @@ Utilizamos o Jira Software para acompanhar o desencvolvimento e produtividade da
 
 [comex]: https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ78yW_eD9AhUNUpEKHTSUCoQYABAAGgJjZQ&ohost=www.google.com&cid=CAESauD2sBg5oH-GIDfzTcdxYX4Vwuq3zIW8k6L4GMVCk2ZiA5pMpm84vDgr7F-eXoit2D7pe3F_G_n59sPYMDxX-ewnIno7AdQoiexXS5KZ3BKYMvLK-mBIh4Bqwk4qHcDRe6wYcnhuIx-nFEA&sig=AOD64_0d_abox1vJ14tw4YCBPskKPRyqkQ&q&adurl&ved=2ahUKEwi-wMeW_eD9AhWqHrkGHZzPCqkQ0Qx6BAgKEAE
 
-#### [4. Python][adxd]
+#### [5. Python][adxd]
 Utilizamos o python para realizar a análise estatístca dos dados, aplicando em conjunto ao Google Colab.
 
 [adxd]: https://www.python.org/
+
+#### [6. Adobe XD][adxdi]
+Utilizamos o software do Adobe XD, programa de desenvolvimento UI/UX Design, para criação do protótipo visual do aplicativo, que possibilita acesso público ao projeto e encaminhamento para desenvolvimento com código.
+
+[adxdi]: https://www.adobe.com/br/products/xd.html
 
 ## 📅 Sprint
 Abaixo está o cronograma das entregas das Sprint
