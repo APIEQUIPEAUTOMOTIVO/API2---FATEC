@@ -92,7 +92,14 @@ Abaixo está o cronograma das entregas das Sprint
 ## Links Externos
 Abaixo estão alguns links externos referente ao projeto:
 
-<blockquote> Ainda não há links externos </blockquote> 
+#### [ACESSE O APP][apps]
+#### [ACESSE O DASHBOARD][dash]
+
+[apps]: https://xd.adobe.com/view/1a49bc63-e737-474a-9052-ec30b1e1a943-4f1a/screen/42c66e10-4e2b-478c-a12b-6e3bb3df2123
+[dash]: https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection
+
+<blockquote> Acesso ao dashboard deve ser solicitado <blockquote>
+
 
 
 
