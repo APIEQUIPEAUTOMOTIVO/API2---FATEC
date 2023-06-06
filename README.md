@@ -20,7 +20,7 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
   </tr>
   <table align="center">
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/larissa-arruda-a139901a0/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQHJBmLSOVyftQ/profile-displayphoto-shrink_200_200/0/1680181846538?e=1685577600&v=beta&t=cH_gpE7FoKUB8PEN7KScLGHj-qSzTob5Hk7W06pe6W4" width="100px;" alt=""/><br /><sub><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px;" alt=""/></sub><br/><sub><b>Larissa Arruda</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
+    <td align="center"><a href="https://www.linkedin.com/in/larissa-arruda-a139901a0/"><img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQHJBmLSOVyftQ/profile-displayphoto-shrink_200_200/0/1680181846538?e=1691625600&v=beta&t=6n7vZDZc0OYDe-WyV10MeVPxwDk9UPkbt9sskLB1Y7k" width="100px;" alt=""/><br /><sub><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px;" alt=""/></sub><br/><sub><b>Larissa Arruda</b></sub></a><br/><sub><b>Scrum Team</b></sub></td>
     <td align="center"><a href="https://www.linkedin.com/in/luiz-tozi-378437266/"><img style="border-radius: 50%;" src="https://pps.whatsapp.net/v/t61.24694-24/346945717_803878547995511_3044771527078115172_n.jpg?ccb=11-4&oh=01_AdSenCx4hg5u7jdt2iWDC7dPBwSvrLTDGM3KpFfTls9U7g&oe=6481F9FC" width="100px;" alt=""/><br /><sub><img style="border-radius: 50%;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15px;" alt=""/></sub><br/><sub><b>Luiz Henrique</b></sub></a><br/><sub><b>Scrum Master</b></sub></td>
   </tr>
 </table>
