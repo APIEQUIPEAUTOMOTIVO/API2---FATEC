@@ -64,7 +64,7 @@ Utilizamos o Jira Software para acompanhar o desencvolvimento e produtividade da
 [comex]: https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjJ78yW_eD9AhUNUpEKHTSUCoQYABAAGgJjZQ&ohost=www.google.com&cid=CAESauD2sBg5oH-GIDfzTcdxYX4Vwuq3zIW8k6L4GMVCk2ZiA5pMpm84vDgr7F-eXoit2D7pe3F_G_n59sPYMDxX-ewnIno7AdQoiexXS5KZ3BKYMvLK-mBIh4Bqwk4qHcDRe6wYcnhuIx-nFEA&sig=AOD64_0d_abox1vJ14tw4YCBPskKPRyqkQ&q&adurl&ved=2ahUKEwi-wMeW_eD9AhWqHrkGHZzPCqkQ0Qx6BAgKEAE
 
 #### [5. Python][adxd]
-Utilizamos o python para realizar a análise estatístca dos dados, aplicando em conjunto ao Google Colab.
+Utilizamos o python para realizar o tratamento dos dados e criação da regressão linear, aplicando em conjunto ao Google Colab.
 
 [adxd]: https://www.python.org/
 
@@ -72,6 +72,12 @@ Utilizamos o python para realizar a análise estatístca dos dados, aplicando em
 Utilizamos o software do Adobe XD, programa de desenvolvimento UI/UX Design, para criação do protótipo visual do aplicativo, que possibilita acesso público ao projeto e encaminhamento para desenvolvimento com código.
 
 [adxdi]: https://www.adobe.com/br/products/xd.html
+ 
+#### [7. Google Colab][gooc]
+Utilizamos o notebook Google Colab para desenvolvimento do código na linguagem de Python, responsável pelo tratamento dos dados e criação da regressão linear.
+
+[gooc]: https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR 
+
 
 ## 📅 Sprint
 Abaixo está o cronograma das entregas das Sprint
@@ -96,7 +102,7 @@ Abaixo estão alguns links externos referente ao projeto:
 #### [ACESSE O DASHBOARD][dash]
 #### [ACESSE A APRESENTAÇÃO][apr]
 
-[apps]: [https://xd.adobe.com/view/1a49bc63-e737-474a-9052-ec30b1e1a943-4f1a/screen/42c66e10-4e2b-478c-a12b-6e3bb3df2123](https://xd.adobe.com/view/e305abc9-d4c6-4890-b050-1bd75505767a-b656/?fullscreen)
+[apps]: https://xd.adobe.com/view/1a49bc63-e737-474a-9052-ec30b1e1a943-4f1a/screen/42c66e10-4e2b-478c-a12b-6e3bb3df2123](https://xd.adobe.com/view/e305abc9-d4c6-4890-b050-1bd75505767a-b656/?fullscreen
 [dash]: https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection
 [apr]: https://xd.adobe.com/view/5319149c-c530-43a5-b5af-57bbec6f7bab-064a/?fullscreen
   
