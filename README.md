@@ -101,7 +101,7 @@ Abaixo estão alguns links externos referente ao projeto:
 #### [ACESSE O DASHBOARD][dash]
 #### [ACESSE A APRESENTAÇÃO][apr]
 
-[apps]: https://xd.adobe.com/view/1a49bc63-e737-474a-9052-ec30b1e1a943-4f1a/screen/42c66e10-4e2b-478c-a12b-6e3bb3df2123](https://xd.adobe.com/view/e305abc9-d4c6-4890-b050-1bd75505767a-b656/?fullscreen
+[apps]: https://xd.adobe.com/view/e305abc9-d4c6-4890-b050-1bd75505767a-b656/?fullscreen
 [dash]: https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection
 [apr]: https://xd.adobe.com/view/5319149c-c530-43a5-b5af-57bbec6f7bab-064a/?fullscreen
   
