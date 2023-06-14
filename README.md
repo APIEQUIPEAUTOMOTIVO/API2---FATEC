@@ -1,6 +1,6 @@
 # Projeto API 2 - Estudo Estatístico do Transporte Ferroviário de Cargas 
 
-Esse repositório tem como objetivo detalhar o andamento dos processos referentes à produção do projeto API 2, que visa apresentar um estudo do uso do transporte ferroviário para distribuição de cargas.
+O objetivo deste repositório é fornecer informações detalhadas sobre o progresso dos processos relacionados à produção do projeto API 2. O projeto tem como propósito realizar um estudo sobre o uso do transporte ferroviário para a distribuição de cargas.
 
 ## Empresa
 
@@ -27,16 +27,15 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
 
 ## 📈 Objetivos
 
-O projeto API 2 possui a finalidade de avaliar o transporte ferroviário de cargas, identificando o impacto de variáveis econômicas na movimentação mensal.
-
-Dessa forma, analisaremos dados de maneira qualitativa, caracterizando as cargas e criando projeção para os próximos meses.
+O projeto API 2 tem como objetivo avaliar o transporte ferroviário de cargas e identificar o impacto das variáveis econômicas na movimentação mensal. Nesse sentido, a análise dos dados será realizada de forma qualitativa e quantitativa, com o intuito de caracterizar as cargas e geografia dos fluxos, além de identificar tendências nos dados desse modal de transporte.
 
 
 
 ## ✏️ Métodos
 
-Os métodos para a produção do API 2 são baseados no modelo Scrum, caracterizado por pequenos ciclos de atividades chamados de Sprint. Esse repositório acompanhará o desenvolvimento de cada Sprint, onde serão anexados arquivos, protótipos, documentos até a conclusão, que será no final desse primeiro semestre de 2023.
-O Scrum é visto como um método que oferece espaço para incertezas e criatividade, assim favorecendo o aprendizado da equipe.
+Os métodos utilizados na produção do API 2 são baseados no modelo Scrum, que se caracteriza por pequenos ciclos de atividades denominados de Sprints. Este repositório será utilizado para acompanhar o desenvolvimento de cada Sprint, no qual serão anexados arquivos, protótipos e documentos até a conclusão, prevista para o final do primeiro semestre de 2023.
+
+O Scrum é reconhecido como um método que proporciona espaço para lidar com incertezas e estimula a criatividade, o que favorece o aprendizado da equipe.
 
 
 ## 🛠️ Tecnologias e Ferramentas
