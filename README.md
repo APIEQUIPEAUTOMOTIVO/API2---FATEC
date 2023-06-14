@@ -27,7 +27,7 @@ Esse repositório tem como objetivo detalhar o andamento dos processos referente
 
 ## 📈 Objetivos
 
-O projeto API 1 possui a finalidade de avaliar o transporte ferroviário de cargas, identificando o impacto de variáveis econômicas na movimentação mensal.
+O projeto API 2 possui a finalidade de avaliar o transporte ferroviário de cargas, identificando o impacto de variáveis econômicas na movimentação mensal.
 
 Dessa forma, analisaremos dados de maneira qualitativa, caracterizando as cargas e criando projeção para os próximos meses.
 
