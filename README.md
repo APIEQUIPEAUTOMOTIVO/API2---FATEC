@@ -105,6 +105,13 @@ Abaixo estão alguns links externos referente ao projeto:
 [dash]: https://app.powerbi.com/groups/me/reports/fd1975fa-df9d-4110-956e-b65c803b4db5/ReportSection
 [apr]: https://xd.adobe.com/view/5319149c-c530-43a5-b5af-57bbec6f7bab-064a/?fullscreen
   
+   <table align="center">
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="https://i.imgur.com/utpNxuw.png" width="150px;" alt=""/></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://i.imgur.com/29X94HA.png" width="150px;" alt=""/></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://i.imgur.com/jvORg5g.png" width="150px;" alt=""/></td>
+  </tr>
+  
 <blockquote> Acesso ao dashboard deve ser solicitado <blockquote>
 
 
